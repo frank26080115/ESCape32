@@ -1,0 +1,35 @@
+build/
+libopencm3/
+*.d
+*.o
+*.bin
+*.hex
+*.list
+*.lst
+*.srec
+*.a
+*.elf
+*.swp
+\#*
+.\#*
+*~
+*.map
+*.log
+*.pyc
+*.tag
+.DS_Store
+
+# Editor/IDE config files
+nbproject/
+.vscode
+.idea/
+.project
+locm3.sublime-workspace
+.cproject
+.settings
+
+# cscope databases
+cscope.out
+
+# build droppings
+.stamp_failure*
